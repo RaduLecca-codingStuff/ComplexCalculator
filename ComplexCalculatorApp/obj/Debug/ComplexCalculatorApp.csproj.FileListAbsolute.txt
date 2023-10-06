@@ -1,0 +1,13 @@
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\bin\Debug\ComplexCalculatorApp.exe.config
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\bin\Debug\ComplexCalculatorApp.exe
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\bin\Debug\ComplexCalculatorApp.pdb
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.Form1.resources
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.Properties.Resources.resources
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.csproj.GenerateResource.cache
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.exe
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.pdb
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.FormPB.resources
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.FormPC.resources
+C:\Users\ldryo\source\repos\ComplexCalculatorApp\ComplexCalculatorApp\obj\Debug\ComplexCalculatorApp.FormP.resources
